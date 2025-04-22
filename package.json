@@ -12,14 +12,14 @@
     "lint:eslint": "eslint \"src/**/*.{css,js}\""
   },
   "devDependencies": {
-    "eslint": "^8.18.0",
+    "eslint": "^9.25.1",
     "netlify-plugin-cypress": "^2.2.1",
-    "prettier": "^3.2.5",
-    "prettier-plugin-astro": "^0.13.0",
-    "typescript": "^5.4.4"
+    "prettier": "^3.5.3",
+    "prettier-plugin-astro": "^0.14.1",
+    "typescript": "^5.8.3"
   },
   "dependencies": {
-    "astro": "^4.5.18",
-    "cypress": "^13.7.2"
+    "astro": "^5.7.4",
+    "cypress": "^14.3.1"
   }
 }

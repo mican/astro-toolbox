@@ -9,6 +9,7 @@
   package = "netlify-plugin-inline-functions-env"
 
   [plugins.inputs]
+    include = ["HUGE", "BIG", "ENORMOUS", "LARGE"]
     verbose = "true"
     
     

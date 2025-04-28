@@ -16,6 +16,7 @@
     "eslint": "^9.25.1",
     "googleapis": "^148.0.0",
     "netlify-plugin-cypress": "^2.2.1",
+    "netlify-plugin-inline-functions-env": "^1.0.9",
     "pipedrive": "^25.0.0",
     "prettier": "^3.5.3",
     "prettier-plugin-astro": "^0.14.1",

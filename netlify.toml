@@ -10,18 +10,18 @@
 [[plugins]] 
   package = "netlify-plugin-cypress"
 
-  [plugins.inputs.postBuild]
-    enable = true
-  
   [plugins.inputs]
     enable = false
+
+  [plugins.inputs.postBuild]
+    enable = true
     
 [[plugins]]
-  package = "netlify-plugin-inline-functions-env"  
+  package = "netlify-plugin-inline-functions-env"
 
-[plugins.inputs]
-  include = ["GOOGLE_SERVICE_ACCOUNT_CREDENTIALS"]  
-  verbose = "true"
+  [plugins.inputs]
+    include = ["GOOGLE_SERVICE_ACCOUNT_CREDENTIALS"]
+    verbose = "true"
     
     
 [[redirects]]

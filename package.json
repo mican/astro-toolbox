@@ -1,6 +1,6 @@
 {
   "name": "astro-toolbox",
-  "type": "module",  
+  "type": "module",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -16,6 +16,7 @@
     "axios": "^1.8.4",
     "eslint": "^9.25.1",
     "netlify-plugin-cypress": "^2.2.1",
+    "pipedrive": "^25.0.0",
     "prettier": "^3.5.3",
     "prettier-plugin-astro": "^0.14.1",
     "typescript": "^5.8.3"

@@ -9,7 +9,7 @@
   package = "netlify-plugin-inline-functions-env"
 
   [plugins.inputs]
-    include = ["GOOGLE_SERVICE_ACCOUNT_CREDENTIALS"]
+    include = ["HUGE"]
     verbose = "true"
     
     
